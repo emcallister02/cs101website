@@ -1,0 +1,58 @@
+body {
+   background-image: linear-gradient(to right, #ff9900, white)
+
+
+
+}
+
+div {
+
+  padding: 15px;
+  margin: 5px;
+  background-color:white;
+}
+
+h2{
+	font-size: 40px;
+}
+h4{
+	float:right;
+}
+
+
+p{
+	font-family: times new roman;
+	font-size: 20px;
+	color: black;
+	
+}
+
+img {
+	width:494px;
+	height:350px;
+	border:2px solid black;
+	
+}
+
+
+
+#Header{
+  text-align: center;
+  font-family: Berlin Sans FB;
+  font-size: 25px;
+  padding: 0.25pt;
+}
+
+#Body{
+	height:auto;
+    overflow:auto;
+	margin: 5px;
+}
+
+#citations{
+	margin-top: 20px;
+	font-family: Times New Roman, Times, serif;
+}
+#picture{
+	float:right;
+}
