@@ -62,3 +62,31 @@ img {
 
  }
 
+#navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+#navbar li {
+  float: left;
+}
+
+#navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border: solid;
+  border-width: 1px;
+  border-right-width: 0.5px;
+  border-color: orange;
+}
+
+#navbar li a:hover {
+  background-color: orange;
+}
+
