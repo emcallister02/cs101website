@@ -91,4 +91,6 @@ img {
 }
 #code {
   float: right;
+  height: 60%;
+  width: 60%;
 }
