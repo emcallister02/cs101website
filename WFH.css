@@ -24,14 +24,14 @@ p{
 	font-family: times new roman;
 	font-size: 20px;
 	color: black;
-	
+
 }
 
 img {
 	width:494px;
 	height:350px;
 	border:2px solid black;
-	
+
 }
 
 
@@ -89,4 +89,6 @@ img {
 #navbar li a:hover {
   background-color: orange;
 }
-
+#code {
+  float: right;
+}
